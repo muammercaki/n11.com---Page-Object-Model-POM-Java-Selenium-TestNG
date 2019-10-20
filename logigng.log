@@ -1,0 +1,302 @@
+2019-10-20 17:17:31 INFO  Listener:40 - Browser opened  - 
+2019-10-20 17:17:34 INFO  Listener:40 - Browser opened  - 
+2019-10-20 17:17:58 ERROR Listener:22 - Fail - 
+2019-10-20 17:17:59 INFO  Listener:45 - Closed browser -org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.id: firstname (tried for 20 second(s) with 500 milliseconds interval) 
+2019-10-20 17:18:00 ERROR Listener:22 - Fail - 
+2019-10-20 17:18:02 INFO  Listener:45 - Closed browser -org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.id: firstname (tried for 20 second(s) with 500 milliseconds interval) 
+2019-10-20 17:25:09 INFO  Listener:40 - Browser opened  - 
+2019-10-20 17:25:33 ERROR Listener:22 - Fail - 
+2019-10-20 17:25:34 INFO  Listener:45 - Closed browser -org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.id: firstname (tried for 20 second(s) with 500 milliseconds interval) 
+2019-10-20 17:27:47 INFO  Listener:40 - Browser opened  - 
+2019-10-20 17:27:50 ERROR Listener:22 - Fail - 
+2019-10-20 17:27:51 INFO  Listener:45 - Closed browser -org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#firstname"}
+  (Session info: chrome=77.0.3865.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WISGNDT87', ip: '192.168.1.140', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.120, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\mcaki\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59345}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: eb8ac2fd3823c52d0581ebaa4a4ca7b0
+*** Element info: {Using=id, value=firstname} 
+2019-10-20 17:31:19 INFO  Listener:40 - Browser opened  - 
+2019-10-20 17:31:43 ERROR Listener:22 - Fail - 
+2019-10-20 17:31:44 INFO  Listener:45 - Closed browser -org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.id: firstname (tried for 20 second(s) with 500 milliseconds interval) 
+2019-10-20 17:32:52 INFO  Listener:40 - Browser opened  - 
+2019-10-20 17:35:58 INFO  Listener:40 - Browser opened  - 
+2019-10-20 17:36:22 ERROR Listener:22 - Fail - 
+2019-10-20 17:36:23 INFO  Listener:45 - Closed browser -org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.id: firstname (tried for 20 second(s) with 500 milliseconds interval) 
+2019-10-20 17:37:54 INFO  Listener:40 - Browser opened  - 
+2019-10-20 17:37:58 ERROR Listener:22 - Fail - 
+2019-10-20 17:37:59 INFO  Listener:45 - Closed browser -org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#firstname"}
+  (Session info: chrome=77.0.3865.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WISGNDT87', ip: '192.168.1.140', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.120, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\mcaki\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60557}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 78abeb77bef040f914c1884f48199933
+*** Element info: {Using=id, value=firstname} 
+2019-10-20 17:38:47 INFO  Listener:40 - Browser opened  - 
+2019-10-20 17:38:51 ERROR Listener:22 - Fail - 
+2019-10-20 17:38:52 INFO  Listener:45 - Closed browser -org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#firstname"}
+  (Session info: chrome=77.0.3865.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WISGNDT87', ip: '192.168.1.140', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.120, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\mcaki\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60713}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a61b5dc90225eaccd1321cc85e896838
+*** Element info: {Using=id, value=firstname} 
+2019-10-20 17:43:40 INFO  Listener:40 - Browser opened  - 
+2019-10-20 17:44:04 ERROR Listener:22 - Fail - 
+2019-10-20 17:44:05 INFO  Listener:45 - Closed browser -org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.id: firstname (tried for 20 second(s) with 500 milliseconds interval) 
+2019-10-20 18:00:35 INFO  Listener:40 - Browser opened  - 
+2019-10-20 18:00:59 ERROR Listener:22 - Fail - 
+2019-10-20 18:01:00 INFO  Listener:45 - Closed browser -org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.id: firstname (tried for 20 second(s) with 500 milliseconds interval) 
+2019-10-20 18:09:41 INFO  Listener:40 - Browser opened  - 
+2019-10-20 18:10:06 ERROR Listener:22 - Fail - 
+2019-10-20 18:10:07 INFO  Listener:45 - Closed browser -org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.name: firstname (tried for 20 second(s) with 500 milliseconds interval) 
+2019-10-20 18:13:50 INFO  Listener:40 - Browser opened  - 
+2019-10-20 18:13:56 INFO  Listener:45 - Closed browser - 
+2019-10-20 18:15:20 INFO  Listener:40 - Browser opened  - 
+2019-10-20 18:15:45 ERROR Listener:22 - Fail - 
+2019-10-20 18:15:46 INFO  Listener:45 - Closed browser -org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: 1 (tried for 20 second(s) with 500 milliseconds interval) 
+2019-10-20 18:18:54 INFO  Listener:40 - Browser opened  - 
+2019-10-20 18:19:00 ERROR Listener:22 - Fail - 
+2019-10-20 18:19:01 INFO  Listener:45 - Closed browser -org.openqa.selenium.NoSuchElementException: Cannot locate option with value: 09
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WISGNDT87', ip: '192.168.1.140', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: driver.version: unknown 
+2019-10-20 18:19:38 INFO  Listener:40 - Browser opened  - 
+2019-10-20 18:20:02 ERROR Listener:22 - Fail - 
+2019-10-20 18:20:03 INFO  Listener:45 - Closed browser -org.openqa.selenium.NoSuchElementException: Cannot locate option with value: 09
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WISGNDT87', ip: '192.168.1.140', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: driver.version: unknown 
+2019-10-20 18:20:58 INFO  Listener:40 - Browser opened  - 
+2019-10-20 18:21:18 ERROR Listener:22 - Fail - 
+2019-10-20 18:21:19 INFO  Listener:45 - Closed browser -org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="checkbox" name="acceptContract" id="acceptContract" data-val="false" data-validation="checked" data-checked-message="Üye olmak için sözleşmeyi onaylamanız gerekmektedir."> is not clickable at point (555, 652). Other element would receive the click: <label for="acceptContract">...</label>
+  (Session info: chrome=77.0.3865.120)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WISGNDT87', ip: '192.168.1.140', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.120, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\mcaki\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64878}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: c716a260f666afb3df3effb41d3251ab 
+2019-10-20 18:23:05 INFO  Listener:40 - Browser opened  - 
+2019-10-20 18:23:12 ERROR Listener:22 - Fail - 
+2019-10-20 18:23:13 INFO  Listener:45 - Closed browser -org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="checkbox" name="acceptContract" id="acceptContract" data-val="false" data-validation="checked" data-checked-message="Üye olmak için sözleşmeyi onaylamanız gerekmektedir."> is not clickable at point (555, 652). Other element would receive the click: <label for="acceptContract">...</label>
+  (Session info: chrome=77.0.3865.120)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WISGNDT87', ip: '192.168.1.140', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.120, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\mcaki\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:65140}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 50c6acb0f98330671b090d0016c00b55 
+2019-10-20 18:23:40 INFO  Listener:40 - Browser opened  - 
+2019-10-20 18:26:24 ERROR Listener:22 - Fail - 
+2019-10-20 18:26:25 INFO  Listener:45 - Closed browser -org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="checkbox" name="acceptContract" id="acceptContract" data-val="false" data-validation="checked" data-checked-message="Üye olmak için sözleşmeyi onaylamanız gerekmektedir."> is not clickable at point (555, 276). Other element would receive the click: <label for="acceptContract">...</label>
+  (Session info: chrome=77.0.3865.120)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WISGNDT87', ip: '192.168.1.140', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.120, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\mcaki\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:65278}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 17cd3f5f1b3df2273a96b5281fdad7a5 
+2019-10-20 18:27:42 INFO  Listener:40 - Browser opened  - 
+2019-10-20 18:28:08 ERROR Listener:22 - Fail - 
+2019-10-20 18:28:09 INFO  Listener:45 - Closed browser -org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //*[title='Hesabım'] (tried for 20 second(s) with 500 milliseconds interval) 
+2019-10-20 18:36:37 INFO  Listener:40 - Browser opened  - 
+2019-10-20 18:36:43 ERROR Listener:22 - Fail - 
+2019-10-20 18:36:44 INFO  Listener:45 - Closed browser -org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="checkbox" name="acceptContract" id="acceptContract" data-val="false" data-validation="checked" data-checked-message="Üye olmak için sözleşmeyi onaylamanız gerekmektedir."> is not clickable at point (555, 652). Other element would receive the click: <label for="acceptContract">...</label>
+  (Session info: chrome=77.0.3865.120)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WISGNDT87', ip: '192.168.1.140', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.120, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\mcaki\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50137}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: e46b377a50f0f04ef979179b2d8ef4a2 
+2019-10-20 18:37:22 INFO  Listener:40 - Browser opened  - 
+2019-10-20 18:37:58 ERROR Listener:22 - Fail - 
+2019-10-20 18:37:59 INFO  Listener:45 - Closed browser -org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="checkbox" name="acceptContract" id="acceptContract" data-val="false" data-validation="checked" data-checked-message="Üye olmak için sözleşmeyi onaylamanız gerekmektedir."> is not clickable at point (555, 652). Other element would receive the click: <label for="acceptContract">...</label>
+  (Session info: chrome=77.0.3865.120)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WISGNDT87', ip: '192.168.1.140', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.120, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\mcaki\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50297}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: ce93348ddd6b90d43f49926edf56eb25 
+2019-10-20 18:38:16 INFO  Listener:40 - Browser opened  - 
+2019-10-20 18:38:49 ERROR Listener:22 - Fail - 
+2019-10-20 18:38:50 INFO  Listener:45 - Closed browser -org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="checkbox" name="acceptContract" id="acceptContract" data-val="false" data-validation="checked" data-checked-message="Üye olmak için sözleşmeyi onaylamanız gerekmektedir."> is not clickable at point (386, 276). Other element would receive the click: <label for="acceptContract">...</label>
+  (Session info: chrome=77.0.3865.120)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WISGNDT87', ip: '192.168.1.140', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.120, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\mcaki\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50459}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: b217727ea2a90f1ead9c5a4e1136705b 
+2019-10-20 18:41:14 INFO  Listener:40 - Browser opened  - 
+2019-10-20 18:41:20 ERROR Listener:22 - Fail - 
+2019-10-20 18:41:21 INFO  Listener:45 - Closed browser -org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="checkbox" name="acceptContract" id="acceptContract" data-val="false" data-validation="checked" data-checked-message="Üye olmak için sözleşmeyi onaylamanız gerekmektedir."> is not clickable at point (555, 652). Other element would receive the click: <label for="acceptContract">...</label>
+  (Session info: chrome=77.0.3865.120)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WISGNDT87', ip: '192.168.1.140', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.120, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\mcaki\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50783}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: b3b5903d43906f89ec1ab197b8cf43be 
+2019-10-20 18:44:20 INFO  Listener:40 - Browser opened  - 
+2019-10-20 18:44:26 ERROR Listener:22 - Fail - 
+2019-10-20 18:44:27 INFO  Listener:45 - Closed browser -org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="checkbox" name="acceptContract" id="acceptContract" data-val="false" data-validation="checked" data-checked-message="Üye olmak için sözleşmeyi onaylamanız gerekmektedir."> is not clickable at point (555, 652). Other element would receive the click: <label for="acceptContract">...</label>
+  (Session info: chrome=77.0.3865.120)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WISGNDT87', ip: '192.168.1.140', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.120, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\mcaki\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51153}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 278e51691c454ffd6dd1be3a410549ca 
+2019-10-20 18:47:15 INFO  Listener:40 - Browser opened  - 
+2019-10-20 18:47:21 ERROR Listener:22 - Fail - 
+2019-10-20 18:47:21 INFO  Listener:45 - Closed browser -org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="checkbox" name="acceptContract" id="acceptContract" data-val="false" data-validation="checked" data-checked-message="Üye olmak için sözleşmeyi onaylamanız gerekmektedir."> is not clickable at point (555, 674). Other element would receive the click: <label for="acceptContract">...</label>
+  (Session info: chrome=77.0.3865.120)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WISGNDT87', ip: '192.168.1.140', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.120, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\mcaki\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51474}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 2e396924bcc6ee9189df83b2a482a949 
+2019-10-20 18:53:59 INFO  Listener:42 - Browser opened  - 
+2019-10-20 18:54:06 ERROR Listener:24 - Fail - 
+2019-10-20 18:54:06 INFO  Listener:47 - Closed browser -org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="checkbox" name="acceptContract" id="acceptContract" data-val="false" data-validation="checked" data-checked-message="Üye olmak için sözleşmeyi onaylamanız gerekmektedir."> is not clickable at point (555, 674). Other element would receive the click: <label for="acceptContract">...</label>
+  (Session info: chrome=77.0.3865.120)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WISGNDT87', ip: '192.168.1.140', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.120, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\mcaki\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51988}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: bbeb5d35784a7940ac38bd44078a1728 
+2019-10-20 18:57:03 INFO  Listener:42 - Browser opened  - 
+2019-10-20 18:57:08 ERROR Listener:24 - Fail - 
+2019-10-20 18:57:08 INFO  Listener:47 - Closed browser -org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input type="checkbox" name="acceptContract" id="acceptContract" data-val="false" data-validation="checked" data-checked-message="Üye olmak için sözleşmeyi onaylamanız gerekmektedir."> is not clickable at point (555, 674). Other element would receive the click: <label for="acceptContract">...</label>
+  (Session info: chrome=77.0.3865.120)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WISGNDT87', ip: '192.168.1.140', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.120, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\mcaki\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52211}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 20bb4c92ea4bfaf6e069b7718ea1b089 
+2019-10-20 18:58:51 INFO  Listener:42 - Browser opened  - 
+2019-10-20 18:59:20 ERROR Listener:24 - Fail - 
+2019-10-20 18:59:20 INFO  Listener:47 - Closed browser -org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //*[title='Hesabım'] (tried for 20 second(s) with 500 milliseconds interval) 
+2019-10-20 19:05:29 INFO  Listener:42 - Browser opened  - 
+2019-10-20 19:05:36 ERROR Listener:24 - Fail - 
+2019-10-20 19:05:36 INFO  Listener:47 - Closed browser -java.lang.AssertionError: expected [Türker Radyo] but found [Hesabım] 
+2019-10-20 19:08:11 INFO  Listener:42 - Browser opened  - 
+2019-10-20 19:08:18 INFO  Listener:47 - Closed browser - 
+2019-10-20 19:32:15 INFO  Listener:42 - Browser opened  - 
+2019-10-20 19:32:21 ERROR Listener:24 - Fail - 
+2019-10-20 19:32:21 INFO  Listener:47 - Closed browser -org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=77.0.3865.120)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WISGNDT87', ip: '192.168.1.140', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.120, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\mcaki\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55273}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 4b1cd73a04581edd427b183c1a7bdd11 
+2019-10-20 19:34:16 INFO  Listener:42 - Browser opened  - 
+2019-10-20 19:34:40 ERROR Listener:24 - Fail - 
+2019-10-20 19:35:02 ERROR Listener:24 - Fail -org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.linkText: Çıkış Yap (tried for 20 second(s) with 500 milliseconds interval) 
+2019-10-20 19:35:02 INFO  Listener:47 - Closed browser -org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.linkText: Üye Ol (tried for 20 second(s) with 500 milliseconds interval) 
+2019-10-20 19:35:28 INFO  Listener:42 - Browser opened  - 
+2019-10-20 19:35:51 ERROR Listener:24 - Fail - 
+2019-10-20 19:35:57 ERROR Listener:24 - Fail -org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=77.0.3865.120)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WISGNDT87', ip: '192.168.1.140', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.120, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\mcaki\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55686}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 7b5abd751b28ad538996f8f410771b17
+*** Element info: {Using=link text, value=Çıkış Yap} 
+2019-10-20 19:35:57 INFO  Listener:47 - Closed browser -org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=77.0.3865.120)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WISGNDT87', ip: '192.168.1.140', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.120, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\mcaki\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55686}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 7b5abd751b28ad538996f8f410771b17 
+2019-10-20 19:36:54 INFO  Listener:42 - Browser opened  - 
+2019-10-20 19:37:26 ERROR Listener:24 - Fail - 
+2019-10-20 19:37:26 INFO  Listener:47 - Closed browser -org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.linkText: Ãœye Ol (tried for 20 second(s) with 500 milliseconds interval) 
+2019-10-20 22:00:53 INFO  Listener:42 - Browser opened  - 
+2019-10-20 22:01:18 ERROR Listener:24 - Fail - 
+2019-10-20 22:01:41 ERROR Listener:24 - Fail -org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.id: email (tried for 20 second(s) with 500 milliseconds interval) 
+2019-10-20 22:02:02 ERROR Listener:24 - Fail -org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.linkText: Çıkış Yap (tried for 20 second(s) with 500 milliseconds interval) 
+2019-10-20 22:02:02 INFO  Listener:47 - Closed browser -org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.linkText: Üye Ol (tried for 20 second(s) with 500 milliseconds interval) 
+2019-10-20 22:03:01 INFO  Listener:42 - Browser opened  - 
+2019-10-20 22:03:27 ERROR Listener:24 - Fail - 
+2019-10-20 22:03:52 ERROR Listener:24 - Fail -org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.id: email (tried for 20 second(s) with 500 milliseconds interval) 
+2019-10-20 22:04:14 ERROR Listener:24 - Fail -org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.linkText: Çıkış Yap (tried for 20 second(s) with 500 milliseconds interval) 
+2019-10-20 22:04:15 INFO  Listener:47 - Closed browser -org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.linkText: Üye Ol (tried for 20 second(s) with 500 milliseconds interval) 
+2019-10-20 22:04:42 INFO  Listener:42 - Browser opened  - 
+2019-10-20 22:04:50 INFO  Listener:47 - Closed browser - 
+2019-10-20 22:05:28 INFO  Listener:42 - Browser opened  - 
+2019-10-20 22:05:54 ERROR Listener:24 - Fail - 
+2019-10-20 22:05:56 INFO  Listener:47 - Closed browser -org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=77.0.3865.120)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WISGNDT87', ip: '192.168.1.140', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.120, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\mcaki\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49655}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 1f111c1d544e8e31f6592177a0e6d9f6
+*** Element info: {Using=link text, value=Ã‡Ä±kÄ±ÅŸ Yap} 
+2019-10-20 22:18:00 INFO  Listener:42 - Browser opened  - 
+2019-10-20 22:18:15 INFO  Listener:47 - Closed browser - 
+2019-10-20 22:19:15 INFO  Listener:42 - Browser opened  - 
+2019-10-20 22:20:07 ERROR Listener:24 - Fail - 
+2019-10-20 22:20:08 INFO  Listener:47 - Closed browser -org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=77.0.3865.120)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WISGNDT87', ip: '192.168.1.140', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.120, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\mcaki\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51034}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: b5c9f442bced154bdfcadad471bdc289
+*** Element info: {Using=link text, value=T�rker Radyo} 
+2019-10-20 22:21:56 INFO  Listener:42 - Browser opened  - 
+2019-10-20 22:22:21 ERROR Listener:24 - Fail - 
+2019-10-20 22:22:43 ERROR Listener:24 - Fail -org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.linkText: Giriş Yap (tried for 20 second(s) with 500 milliseconds interval) 
+2019-10-20 22:23:05 ERROR Listener:24 - Fail -org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.linkText: Hesabım (tried for 20 second(s) with 500 milliseconds interval) 
+2019-10-20 22:23:06 INFO  Listener:47 - Closed browser -org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.linkText: Üye Ol (tried for 20 second(s) with 500 milliseconds interval) 
+2019-10-20 22:35:51 INFO  Listener:42 - Browser opened  - 
+2019-10-20 22:36:16 ERROR Listener:24 - Fail - 
+2019-10-20 22:36:38 ERROR Listener:24 - Fail -org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.linkText: Giriş Yap (tried for 20 second(s) with 500 milliseconds interval) 
+2019-10-20 22:37:01 ERROR Listener:24 - Fail -org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.linkText: Hesabım (tried for 20 second(s) with 500 milliseconds interval) 
+2019-10-20 22:37:03 INFO  Listener:47 - Closed browser -org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.linkText: Üye Ol (tried for 20 second(s) with 500 milliseconds interval) 
+2019-10-20 22:39:10 INFO  Listener:42 - Browser opened  - 
+2019-10-20 22:39:35 ERROR Listener:24 - Fail - 
+2019-10-20 22:39:57 ERROR Listener:24 - Fail -org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.linkText: Giriş Yap (tried for 20 second(s) with 500 milliseconds interval) 
+2019-10-20 22:40:20 ERROR Listener:24 - Fail -org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.linkText: Hesabım (tried for 20 second(s) with 500 milliseconds interval) 
+2019-10-20 22:40:21 INFO  Listener:47 - Closed browser -org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.linkText: Üye Ol (tried for 20 second(s) with 500 milliseconds interval) 
+2019-10-20 22:41:36 INFO  Listener:42 - Browser opened  - 
+2019-10-20 22:42:01 ERROR Listener:24 - Fail - 
+2019-10-20 22:42:13 ERROR Listener:24 - Fail -org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.linkText: Giriş Yap (tried for 20 second(s) with 500 milliseconds interval) 
+2019-10-20 22:42:19 ERROR Listener:24 - Fail -org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=77.0.3865.120)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WISGNDT87', ip: '192.168.1.140', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.120, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\mcaki\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53220}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: b7302a94aa6c817ce55601809dac33ac
+*** Element info: {Using=link text, value=Hesabım} 
+2019-10-20 22:42:20 INFO  Listener:47 - Closed browser -org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=77.0.3865.120)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WISGNDT87', ip: '192.168.1.140', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.120, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\mcaki\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53220}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: b7302a94aa6c817ce55601809dac33ac 
+2019-10-20 22:50:20 INFO  Listener:42 - Browser opened  - 
+2019-10-20 22:50:44 ERROR Listener:24 - Fail - 
+2019-10-20 22:51:06 ERROR Listener:24 - Fail -org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.linkText: Giriş Yap (tried for 20 second(s) with 500 milliseconds interval) 
+2019-10-20 22:51:28 ERROR Listener:24 - Fail -org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.linkText: Hesabım (tried for 20 second(s) with 500 milliseconds interval) 
+2019-10-20 22:51:30 INFO  Listener:47 - Closed browser -org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.linkText: Üye Ol (tried for 20 second(s) with 500 milliseconds interval) 
+2019-10-20 22:53:24 INFO  Listener:42 - Browser opened  - 
+2019-10-20 22:53:54 ERROR Listener:24 - Fail - 
+2019-10-20 22:53:55 INFO  Listener:47 - Closed browser -org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=77.0.3865.120)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'WISGNDT87', ip: '192.168.1.140', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.120, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\mcaki\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54487}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 555e4ca89203412f93d07bc4614ed7ff
+*** Element info: {Using=link text, value=Türker Radyo} 
